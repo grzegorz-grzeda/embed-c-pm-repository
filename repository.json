@@ -2,6 +2,6 @@
     "git@github.com:grzegorz-grzeda":{
         "event_handler":"event_handler",
         "uuid":"uuid",
-        "cli":"cli",
+        "cli":"cli"
     }
 }
