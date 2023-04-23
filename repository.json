@@ -6,7 +6,7 @@
         "flow": "git@github.com:grzegorz-grzeda/flow",
         "containers": "git@github.com:grzegorz-grzeda/containers"
     },
-    "utilities": {
+    "test-libraries": {
         "simple-unit-tests":"git@github.com:grzegorz-grzeda/simple-unit-tests"
     }
 }
