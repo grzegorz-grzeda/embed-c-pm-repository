@@ -1,7 +1,12 @@
 {
-    "git@github.com:grzegorz-grzeda":{
-        "event_handler":"event_handler",
-        "uuid":"uuid",
-        "cli":"cli"
+    "libraries": {
+        "event_handler": "git@github.com:grzegorz-grzeda/event_handler",
+        "uuid": "git@github.com:grzegorz-grzeda/uuid",
+        "cli": "git@github.com:grzegorz-grzeda/cli",
+        "flow": "git@github.com:grzegorz-grzeda/flow",
+        "containters": "git@github.com:grzegorz-grzeda/containers"
+    },
+    "utilities": {
+        "simple-unit-tests":"git@github.com:grzegorz-grzeda/simple-unit-tests"
     }
 }
