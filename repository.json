@@ -7,6 +7,8 @@
         "containers": "git@github.com:grzegorz-grzeda/containers"
     },
     "test-libraries": {
-        "simple-unit-tests":"git@github.com:grzegorz-grzeda/simple-unit-tests"
-    }
+        "simple-unit-tests": "git@github.com:grzegorz-grzeda/simple-unit-tests"
+    },
+    "utilities": {},
+    "test-utilities": {}
 }
