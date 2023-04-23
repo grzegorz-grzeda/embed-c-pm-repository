@@ -4,7 +4,7 @@
         "uuid": "git@github.com:grzegorz-grzeda/uuid",
         "cli": "git@github.com:grzegorz-grzeda/cli",
         "flow": "git@github.com:grzegorz-grzeda/flow",
-        "containters": "git@github.com:grzegorz-grzeda/containers"
+        "containers": "git@github.com:grzegorz-grzeda/containers"
     },
     "utilities": {
         "simple-unit-tests":"git@github.com:grzegorz-grzeda/simple-unit-tests"
